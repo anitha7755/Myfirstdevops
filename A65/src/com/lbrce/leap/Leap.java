@@ -5,5 +5,8 @@ public class Leap {
 	{
 		System.out.println("Hello world");
 	}
-
 }
+public class Leap1{
+	System.out.println("Anitha");
+}
+
